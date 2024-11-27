@@ -2,6 +2,22 @@
     "type": "bundle",
     "id": "bundle--3d7e2db9-9b74-4c1b-a3a3-71f94cc3588c",
     "objects": [
+                {
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--8cb00c79-ab20-5ed4-b37d-317241c96a29",
+            "created": "2024-01-01T01:02:21.547893Z",
+            "modified": "2024-11-19T01:02:21.547893Z",
+            "name": "OrbisGuard",
+            "description": "Orbis is a cybertech founded in 2024, providing cyber threat intelligence, adversary simulation and crisis management solutions to cybersecurity teams across the world.",
+            "identity_class": "organization",
+            "revoked": false,
+            "confidence": 100,
+            "object_marking_refs": [
+                "marking-definition--613f2e26-417d-42c7-7eca-b8e91df99dc9"
+            ],
+            "x_opencti_organization_type": "vendor"
+        },
         {
             "type": "identity",
             "spec_version": "2.1",
